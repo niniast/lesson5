@@ -53,7 +53,8 @@ h1 {
   margin: 30px 0px 60px 0px;
 }
 .article h1 {
-  font-family: "ALK Life", sans-serif;
+	font-family: "ALK Tall Mtavruli", sans-serif
+  font-size: 28px;
 }
 .article img {
   width: 19%;
@@ -66,4 +67,9 @@ h1 {
   padding: 15px 30px 15px 30px;
   color: #fff;
   margin-top: 55px;
+}
+
+section p {
+  font-family: "BPG DedaEna Nonblock", sans-serif;
+  font-size: 16px;
 }

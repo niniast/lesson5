@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "BPG DedaEna NonBlock";
+  src: url("bpg-dedaena-nonblock-webfont.eot"); /* IE9 Compat Modes */
+  src: url("bpg-dedaena-nonblock-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("bpg-dedaena-nonblock-webfont.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("bpg-dedaena-nonblock-webfont.woff")
+      format("woff"),
+    /* Pretty Modern Browsers */ url("bpg-dedaena-nonblock-webfont.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("bpg-dedaena-nonblock-webfont.svg#bpg_dedaena_nonblockregular")
+      format("svg"); /* Legacy iOS */
+}
